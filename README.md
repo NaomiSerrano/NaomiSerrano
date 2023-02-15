@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**NaomiSerrano/NaomiSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+##  mi horario es
+
+
+| HORA | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+|:----:|:-----:|:------:|:---------:|:------:|:-------:|
+| 2pm  | SPA   | SPA    | SPA       | SPA    | SPA     |
+| 3pm  | IC    | IC     | IC        | IC     | IC      |
+| 4pm  | LDI   | LDI    | LDI       | LDI    | LDI     |
+| 5pm  | SPB   | SPB    | SPB       | SPB    | SPB     |
