@@ -14,3 +14,5 @@ Bazinga
 | 11:05-11:55 | Inglés 4              | Comunidades virtuales | Orientación educativa 4 | Inglés               | Historia de México 2 |
 | 12:00-12:50 | Historia de México 2  | Comunidades Virtuales | Matemáticas 4           | Historia de México 2 | Literatura 2         |
 | 12:55-13:45 |                       |                       |                         | Biología 2           | Inglés 4             |
+
+¿Qué les parece? gracioso ¿no? jajaj, ¡eso se ve impresionante!
